@@ -5,7 +5,7 @@ module;
 #include <format>
 #include <type_traits>
 
-export module utils:address;
+export module address;
 
 export namespace utils {
     template <typename T>
